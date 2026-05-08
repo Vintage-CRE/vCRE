@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: century gothic;
+  font-size: 45px;
+}
+
+.google-map {
+     padding-bottom: 50%;
+     position: relative;
+}
+
+.google-map iframe {
+     height: 100%;
+     width: 100%;
+     left: 0;
+     top: 0;
+     position: absolute;
+}
